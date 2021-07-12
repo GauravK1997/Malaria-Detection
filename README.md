@@ -2,7 +2,7 @@
 
 ## About the Project
 
-### The Project is built in order to predict whether the samples for cell images are either Parasitized(with Malaria) or Uninfected
+### The Project is built in order to predict whether the samples for cell images are either Parasitized (affected with Malaria) or Uninfected
 ---
 ## A glimpse of the Project
 
