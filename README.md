@@ -1,4 +1,4 @@
-# Malaria-Detection
+# Malaria Detection
 
 ## About the Project
 
